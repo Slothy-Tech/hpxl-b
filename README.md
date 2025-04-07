@@ -1,5 +1,4 @@
 <h1>Bypass IP Ban on Hypixel</h1>
-
 <p>This guide provides a clear, step-by-step method to bypass IP bans on the Hypixel Minecraft server, ensuring it works effectively for PC users. The process involves mandatory steps that must be followed in sequence to maximize your chances of regaining access.</p>
 <img src="https://img.shields.io/badge/Read%20the%20full%20guide%20here-blue?style=for-the-badge" alt="Read the full guide here" onclick="window.location.href='https://slothytech.com/ip-ban/'" style="cursor: pointer;">
 
@@ -23,12 +22,12 @@
 <ul>
     <li><strong>Using a VPN (Virtual Private Network):</strong>
         <ul>
-            <li><strong>For PC:</strong> Download a <a href="https://slothytech.com/ip-ban/">reputable VPN service</a>, install it, select a server in a different region, and connect. Then launch Minecraft and join Hypixel with the new IP.</li>
+            <li><strong>For PC:</strong> Download a reputable VPN service, install it, select a server in a different region, and connect. Then launch Minecraft and join Hypixel with the new IP.</li>
         </ul>
     </li>
     <li><strong>Using a Proxy Server:</strong>
         <ul>
-            <li><strong>For PC:</strong> Find a <a href="https://slothytech.com/ip-ban/">reliable proxy</a>, configure your system’s network settings with the proxy details, and connect to Hypixel through Minecraft.</li>
+            <li><strong>For PC:</strong> Find a reliable proxy, configure your system’s network settings with the proxy details, and connect to Hypixel through Minecraft.</li>
         </ul>
     </li>
     <li><strong>Switching Network Connection:</strong>
