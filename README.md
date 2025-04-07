@@ -1,4 +1,5 @@
 <h1>Bypass IP Ban on Hypixel</h1>
+
 <p>This guide provides a clear, step-by-step method to bypass IP bans on the Hypixel Minecraft server, ensuring it works effectively for PC users. The process involves mandatory steps that must be followed in sequence to maximize your chances of regaining access.</p>
 <img src="https://img.shields.io/badge/Read%20the%20full%20guide%20here-blue?style=for-the-badge" alt="Read the full guide here" onclick="window.location.href='https://slothytech.com/ip-ban/'" style="cursor: pointer;">
 
